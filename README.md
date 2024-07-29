@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Meu nome é emilly, estou esudando na alura, amo gatos
 <!--
 **emyylinda/emyylinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
